@@ -1,6 +1,8 @@
-- 👋 Hi, I’m an Engineering leader and a GNU/Linux Enthusiasts based somewhere in Asia.
+👋 Hi, I’m an Engineering leader and a GNU/Linux Enthusiasts based Nowhere in Thar.
 
-I have over 10 months of experience working mostly with configuring linux & window managers. I am a Seasoned Ricer who's supposingly learning website development.
+I am an Experienced ricer working mostly with configuring linux & window managers. 
+I am a Seasoned Ricer who's supposingly learning website development.
+I am a huge fan of open-source and have advocated with sate.
 
-I am a huge fan of open-source and have advocated with sate. 
+- i used Arch Btw!
 
