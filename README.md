@@ -4,5 +4,5 @@ I am an Experienced ricer working mostly with configuring linux & window manager
 I am a Seasoned Ricer who's supposingly learning website development.
 I am a huge fan of open-source and have advocated with sate.
 
-- i used Arch Btw!
+I used Arch, Vim, Hyprland and Ghostty Btw!
 
