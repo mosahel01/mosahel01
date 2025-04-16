@@ -1,4 +1,4 @@
-👋 Hi, I’m an Engineering leader and a GNU/Linux Enthusiasts based Nowhere in Thar.
+👋 Hi, I’m an Engineering stuent and a GNU/Linux Enthusiasts.
 
 I am an Experienced ricer working mostly with configuring linux & window managers. 
 I am a Seasoned Ricer who's supposingly learning website development.
