@@ -5,25 +5,20 @@
 </h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+
 
 ---
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on Twitter. [Twitter](https://www.x.com/hoywd01)  
-- 🏠 Contact me at [Mail](mosahel@proton.me) 
+
 ---
 
 📊 Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mosahel01&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mosahel01&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosahel01&theme=tokyonight)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mosahel)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mosahel)
 
 <h3 align="center">
 
