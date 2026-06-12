@@ -17,6 +17,7 @@ I'm Mo. I am a Final-year student specializing in backend engineering, core Java
 
 **Languages & Frameworks**
 * Java, Spring Boot, Spring Security, Spring Data JPA
+* Python, FastAPI, Agentic AI, RAG, MCP
 * JavaScript, React.js (Frontend Integration)
 * Bash / Shell Scripting
 
@@ -26,6 +27,7 @@ I'm Mo. I am a Final-year student specializing in backend engineering, core Java
 
 **Tools & Environment**
 * IntelliJ IDEA (Primary IDE for enterprise Java development)
+* PyCharm (Primarily for Python)
 * vim (Lightweight text editing, scripting, and config management)
 * Linux (Environment familiarity and shell automation)
 * Git & GitHub
