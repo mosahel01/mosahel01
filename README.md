@@ -1,17 +1,9 @@
 # Hello, world!
-I'm Mo. I am a Final-year student specializing in backend engineering, core Java development, and database internals. Focused on building highly available, maintainable systems and writing clean, predictable code.
+I'm Mo. I am a Final-year student specializing in backend engineering, core Java development, and <br>
+database internals. Focused on building highly available, maintainable systems and writing clean, predictable code.
 
 [Portfolio Website](https://mosahel01.github.io/)
 
----
-
-### Focus & Interests
-
-* **Backend Architectures:** Designing scalable server-side systems using the Java ecosystem and Spring Boot.
-* **Database Internals:** Fascinated by query execution plans, indexing strategies, transaction isolation levels, and data modeling.
-* **Developer Velocity:** Leveraging terminal-centric workflows and automation to maximize development efficiency.
-
----
 
 ### Technical Stack
 
@@ -31,21 +23,6 @@ I'm Mo. I am a Final-year student specializing in backend engineering, core Java
 * vim (Lightweight text editing, scripting, and config management)
 * Linux (Environment familiarity and shell automation)
 * Git & GitHub
-
----
-
-### Core Areas of Work
-
-* **Application Development:** Building robust RESTful APIs with Spring Boot, ensuring type safety, strict request validation, and clean architecture.
-* **Database Performance:** Analyzing and optimizing slow queries, managing migrations, and structuring schemas for optimal read/write throughput.
-* **Workflow Automation:** Writing Bash scripts to streamline local deployment pipelines and environment setups.
-
----
-
-### GitHub Metrics
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosahel01&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosahel01&layout=compact&theme=tokyonight) |
-| --- | --- |
 
 ---
 
