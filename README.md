@@ -1,8 +1,8 @@
-# Hey there, I'm Mo.
-[Portfolio](https://mosahel01.github.io/) • [LinkedIn](https://linkedin.com/in/mosahil01) • [Email](mailto:mos.sahil01@gmail.com)
+# {Hello, It's Mo}
 
-I’m a final-year backend developer driven by building scalable systems. Built on a solid foundation of enterprise **Java & Spring Boot**, my current focus is the AI frontier—architecting **Agentic AI & RAG pipelines** with **Python & FastAPI**.
+AI & Full-Stack Engineer building production AI, agentic systems, and scalable applications.
 
-**Languages & frameworks:** Python (FastAPI, Agentic AI, RAG, MCP) • Java (Spring Boot, JPA) • JS (React) • Bash<br>
-**Databases:** Relational DBs • Schema Design • Query Optimization • ACID Compliance • Indexing<br>
-**Tools:** Linux • Git • Vim • IntelliJ • PyCharm
+**Tech:** Python, FastAPI, Docker, Supabase · Java, Spring Boot  
+**Focus:** AI Agents, Multi-Agent Systems, RAG, MCP, Fine-Tuning, Automation
+
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your.email@example.com) · [Website](https://yourwebsite.com)
