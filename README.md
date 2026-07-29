@@ -1,33 +1,23 @@
-# Hello, world!
-I'm Mo. I am a Final-year student specializing in backend engineering, core Java development, and <br>
-database internals. Focused on building highly available, maintainable systems and writing clean, predictable code.
+# Hello, I'm Mo.
 
-[Portfolio Website](https://mosahel01.github.io/)
+I am a final-year student specializing in backend engineering, database internals, and scalable systems design. My development background is rooted in enterprise **Java and Spring Boot**, and I am currently focused on building AI-driven infrastructure using **Python, FastAPI, Agentic AI, and RAG pipelines**.
 
+[Portfolio](https://mosahel01.github.io/) | [LinkedIn](https://linkedin.com/in/mosahil01) | [Email](mailto:mos.sahil01@gmail.com)
+
+---
 
 ### Technical Stack
 
 **Languages & Frameworks**
-* Java, Spring Boot, Spring Security, Spring Data JPA
-* Python, FastAPI, Agentic AI, RAG, MCP
-* JavaScript, React.js (Frontend Integration)
+* Python (FastAPI, Agentic AI, RAG, MCP)
+* Java (Spring Boot, Spring Security, Spring Data JPA)
+* JavaScript (React.js)
 * Bash / Shell Scripting
 
 **Databases & Storage**
-* Relational Databases (Schema Design, Query Optimization, Normalization)
+* Relational Databases (Schema Design, Query Optimization)
 * ACID Compliance, Indexing Strategies, Connection Pooling
 
 **Tools & Environment**
-* IntelliJ IDEA (Primary IDE for enterprise Java development)
-* PyCharm (Primarily for Python)
-* vim (Lightweight text editing, scripting, and config management)
-* Linux (Environment familiarity and shell automation)
-* Git & GitHub
-
----
-
-### Contact & Links
-
-* **Portfolio:** [mosahel01.github.io](https://mosahel01.github.io/)
-* **LinkedIn:** [linkedin.com/in/mosahil01](https://linkedin.com/in/mosahil01)
-* **Email:** [mos.sahil01@gmail.com](mailto:mos.sahil01@gmail.com)
+* IntelliJ IDEA, PyCharm
+* Linux, vim, Git & GitHub
