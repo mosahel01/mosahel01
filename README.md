@@ -1,4 +1,4 @@
-# {Hello, It's Mo}
+# {Hi There!}
 
 AI & Full-Stack Engineer building production AI, agentic systems, and scalable applications.
 
